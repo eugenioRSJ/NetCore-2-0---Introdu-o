@@ -1,0 +1,16 @@
+C:\github\dotnet\GameTOP\bin\Debug\netcoreapp2.2\GameTOP.deps.json
+C:\github\dotnet\GameTOP\bin\Debug\netcoreapp2.2\GameTOP.runtimeconfig.json
+C:\github\dotnet\GameTOP\bin\Debug\netcoreapp2.2\GameTOP.runtimeconfig.dev.json
+C:\github\dotnet\GameTOP\bin\Debug\netcoreapp2.2\GameTOP.dll
+C:\github\dotnet\GameTOP\bin\Debug\netcoreapp2.2\GameTOP.pdb
+C:\github\dotnet\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.csprojAssemblyReference.cache
+C:\github\dotnet\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.csproj.CoreCompileInputs.cache
+C:\github\dotnet\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.AssemblyInfoInputs.cache
+C:\github\dotnet\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.AssemblyInfo.cs
+C:\github\dotnet\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.dll
+C:\github\dotnet\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.pdb
+C:\github\dotnet\GameTOP\bin\Debug\netcoreapp2.2\GameTOP.Interface.dll
+C:\github\dotnet\GameTOP\bin\Debug\netcoreapp2.2\GameTOP.Lib.dll
+C:\github\dotnet\GameTOP\bin\Debug\netcoreapp2.2\GameTOP.Lib.pdb
+C:\github\dotnet\GameTOP\bin\Debug\netcoreapp2.2\GameTOP.Interface.pdb
+C:\github\dotnet\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.csproj.CopyComplete

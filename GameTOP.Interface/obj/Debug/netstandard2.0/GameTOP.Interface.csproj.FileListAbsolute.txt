@@ -1,0 +1,9 @@
+C:\github\dotnet\GameTOP.Interface\bin\Debug\netstandard2.0\GameTOP.Interface.deps.json
+C:\github\dotnet\GameTOP.Interface\bin\Debug\netstandard2.0\GameTOP.Interface.dll
+C:\github\dotnet\GameTOP.Interface\bin\Debug\netstandard2.0\GameTOP.Interface.pdb
+C:\github\dotnet\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.csprojAssemblyReference.cache
+C:\github\dotnet\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.csproj.CoreCompileInputs.cache
+C:\github\dotnet\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.AssemblyInfoInputs.cache
+C:\github\dotnet\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.AssemblyInfo.cs
+C:\github\dotnet\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.dll
+C:\github\dotnet\GameTOP.Interface\obj\Debug\netstandard2.0\GameTOP.Interface.pdb
