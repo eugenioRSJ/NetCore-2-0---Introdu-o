@@ -727,11 +727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\github\\dotnet\\GameTOP\\GameTOP.csproj",
+      "projectUniqueName": "c:\\GitHub\\DotNet\\GameTOP\\GameTOP.csproj",
       "projectName": "GameTOP",
-      "projectPath": "C:\\github\\dotnet\\GameTOP\\GameTOP.csproj",
+      "projectPath": "c:\\GitHub\\DotNet\\GameTOP\\GameTOP.csproj",
       "packagesPath": "C:\\Users\\eugen\\.nuget\\packages\\",
-      "outputPath": "C:\\github\\dotnet\\GameTOP\\obj\\",
+      "outputPath": "c:\\GitHub\\DotNet\\GameTOP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -750,11 +750,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\github\\dotnet\\GameTOP.Interface\\GameTOP.Interface.csproj": {
-              "projectPath": "C:\\github\\dotnet\\GameTOP.Interface\\GameTOP.Interface.csproj"
+            "c:\\GitHub\\DotNet\\GameTOP.Interface\\GameTOP.Interface.csproj": {
+              "projectPath": "c:\\GitHub\\DotNet\\GameTOP.Interface\\GameTOP.Interface.csproj"
             },
-            "C:\\github\\dotnet\\GameTOP.Lib\\GameTOP.Lib.csproj": {
-              "projectPath": "C:\\github\\dotnet\\GameTOP.Lib\\GameTOP.Lib.csproj"
+            "c:\\GitHub\\DotNet\\GameTOP.Lib\\GameTOP.Lib.csproj": {
+              "projectPath": "c:\\GitHub\\DotNet\\GameTOP.Lib\\GameTOP.Lib.csproj"
             }
           }
         }
